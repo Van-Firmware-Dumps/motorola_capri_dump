@@ -1,0 +1,21 @@
+## msi-user 11 RRBS31.Q1-3-48-22 9edc93 release-keys
+- Manufacturer: motorola
+- Platform: bengal
+- Codename: capri
+- Brand: motorola
+- Flavor: msi-user
+- Release Version: 11
+- Kernel Version: 4.19.136
+- Id: RRBS31.Q1-3-48-22
+RRBS31.Q1-3-48-22
+- Incremental: 9edc93
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: motorola/capri_retail/capri:11/RRBS31.Q1-3-48-22/9edc93:user/release-keys
+- OTA version: 
+- Branch: msi-user-11-RRBS31.Q1-3-48-22-9edc93-release-keys
+- Repo: motorola_capri_dump
